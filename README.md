@@ -1,15 +1,6 @@
 # Dojocast - Podcast by CoderDojo Japan
 
-This website archives and broadcasts interviewing people around CoderDojo communities in Japan.
-
-🌏  CoderDojo - Free Programming Clubs for Kids.   
-https://coderdojo.com/
-
-🇯🇵  CoderDojo Japan is one of the official regional bodies.   
-https://coderdojo.jp/
-
-📻  Dojocast is CoderDojo Japan's podcasting projec.  
-http://dojocast.coderdojo.jp/
+This website broadcasts interviewing people around CoderDojo communities in Japan.
 
 ## Live
 
@@ -19,7 +10,18 @@ http://dojocast.coderdojo.jp/
 
 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/search?q=lang%3Aja%20%23dojocast" data-widget-id="845314251602350081">Tweets about <b>#dojocast</b></a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-          
+
+## Links
+
+🌏  CoderDojo - Free Programming Clubs for Kids.   
+https://coderdojo.com/
+
+🇯🇵  CoderDojo Japan is one of the official regional bodies.   
+https://coderdojo.jp/
+
+📻  Dojocast is CoderDojo Japan's podcasting project.  
+http://dojocast.coderdojo.jp/
+
 
 ## License
 
