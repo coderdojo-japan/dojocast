@@ -1,6 +1,6 @@
 # Dojocast - Podcast by CoderDojo Japan
 
-This website broadcasts interviewing people around CoderDojo communities in Japan.
+Dojocast broadcasts interviewing people around CoderDojo communities in Japan.
 
 ## Live
 
