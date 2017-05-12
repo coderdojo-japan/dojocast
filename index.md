@@ -17,5 +17,7 @@ title:  Dojocast - Highlight people around CoderDojo communities by Podcast
    
 {% include live.html %}
 {% include links.html %}
-{% include license.html %}
 
+<br />
+<br />
+<br />
