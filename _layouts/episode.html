@@ -1,0 +1,56 @@
+{% include header.html %}
+
+<div id="container">
+  <section class="main-content players" id="player2-container">
+  <h1>{{ page.title }}</h1>
+  <p>{{ page.desc }}</p>
+
+  <div class="players" id="player2-container">
+    <div class="media-wrapper">
+      <audio id="player2" preload="none" controls style="max-width:100%;">
+	<source src="{{ page.file }}.mp3" type="audio/mp3" />
+      </audio>
+    </div>
+    <br>
+  </div>
+  {{ content }}
+  <br />
+  {% include footer.html %}
+  </section>
+ 
+  <div style="visibility:hidden">
+    <label><select name="sources">
+        <option value="http://www.largesound.com/ashborytour/sound/AshboryBYU.mp3">MP3</option>
+      </select>
+    </label>
+    <br>
+    <div class="player-info">
+      <div id="player2-rendername">
+        <p><strong>DL</strong>: <span class="src"><a href="001.mp3" target="_blank"></a></span></p>
+        <p><strong>Renderer</strong>: <span class="renderer"></span></p>
+        <p class="error"></p>
+      </div>
+    </div>
+    
+    <form action="#" method="get">
+      <label>Language <select name="lang">
+          <option value="en" selected>English (en)</option>
+          <option value="ja">Japanese (ja)</option>
+        </select>
+      </label><br />
+      <label>Stretching<select name="stretching">
+          <option value="auto" selected>Auto (default)</option>
+          <option value="responsive">Responsive</option>
+          <option value="fill" selected>Fill</option>
+          <option value="none" selected>None (original dimensions)</option>
+        </select>
+      </label>
+    </form>
+  </div>
+</div>
+
+<script src="/build/mediaelementplayer.js"></script>
+<script src="/build/lang/ja.js"></script>
+<script src="/assets/demo.js"></script>
+
+{% include analytics.html %}
