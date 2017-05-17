@@ -1,9 +1,11 @@
 ---
 layout: episode
-title:  Starting a Dojo as a Student
+title:  Young Passionate Champion who Learns Programming from Scratch
 desc:   Podcasting with <a href="https://twitter.com/mjk_0513">@mjk_0513</a>.
 file:   002
 ---
+
+小・中学生の頃に Scratch を学び、高校生で CoderDojo を始めた宮島さんが、どのようにして Scratch から他の言語 (Swift) に移ったのか? また、CoderDojo 柏が柏市と一緒に進めている取り組みについてお話ししました。さらに、上海における教育事例についても伺いました ;)
 
 # Shownote
 
