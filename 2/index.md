@@ -13,8 +13,3 @@ file:   002
 - [CoderDojo 水戸](http://coderdojo-mito.com/)
 - [CoderDojo 高田馬場](http://coderdojo-tdbb.com/)
 
------------
-
-- []()
-- []()
-- []()
