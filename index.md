@@ -14,7 +14,8 @@ title:  Dojocast - Highlight people around CoderDojo communities by Podcast
 - #003 - 準備中 with [Tomoaki Higa](https://www.facebook.com/tomoakihjiji)
 - #004 - 準備中 with [@tkc49](https://twitter.com/tkc49)
 - [#005 - What's Decadojo and how it started?](/5) with [Decadojo organizers](https://peraichi.com/landing_pages/view/decadojo)
-   
+- [#006 - [PR] 未踏ジュニアとコーダー道場](/6) with <a href="https://twitter.com/ukkaripon">@ukkaripon</a>
+
 {% include live.html %}
 {% include links.html %}
 <br />
