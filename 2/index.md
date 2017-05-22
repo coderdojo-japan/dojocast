@@ -18,5 +18,6 @@ file:   002
 -----------
 
 - [あなたが Dojo に来る理由は何ですか?](https://www.youtube.com/watch?v=gLDue2xb1j8)
-- [Scratch Day in Kashiwa](http://sd.coderdojo-kashiwa.com/)
-- [Scratch Day in Tokyo プログラミングバトル](http://day.scratch-ja.org/post/115465554182/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%90%E3%83%88%E3%83%AB)
+- [ScratchDay in Kashiwa](http://sd.coderdojo-kashiwa.com/)
+- [ScratchDay 2017 in Kashiwa (YouTube)](https://www.youtube.com/watch?v=LO7fXO1vp1c)
+- [ScratchDay in Tokyo プログラミングバトル](http://day.scratch-ja.org/post/115465554182/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%90%E3%83%88%E3%83%AB)
