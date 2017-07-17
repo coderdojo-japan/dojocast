@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Dojocast - Highlight people around CoderDojo communities by Podcast
+title:  DojoCast - Highlight people around CoderDojo communities by Podcast
 ---
 
 # CoderDojo Japan's Podcast

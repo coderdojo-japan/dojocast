@@ -1,8 +1,8 @@
-# Dojocast - Podcast by CoderDojo Japan
+# DojoCast - Podcast by CoderDojo Japan
 
-Dojocast highlights people around CoderDojo communities in Japan.
+DojoCast highlights people around CoderDojo communities in Japan.
 
-📻  Dojocast is CoderDojo Japan's podcasting project.  
+📻  DojoCast is CoderDojo Japan's podcasting project.  
 http://dojocast.coderdojo.jp/
 
 ## References
