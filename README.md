@@ -15,6 +15,6 @@ https://coderdojo.jp/
 
 ## License
 
-This website is published under MIT license.
+The source code of this website is published under MIT license.   
 
 Copyright &copy; 2017 [CoderDojo Japan](https://coderdojo.jp/)
