@@ -17,6 +17,14 @@ title:  DojoCast - Highlight people around CoderDojo communities by Podcast
 - [#006: [PR] 未踏ジュニアとコーダー道場](/6) with <a href="https://twitter.com/ukkaripon">@ukkaripon</a>
 - [#007: Hack for Dojo](/7) with [@teramotodaiki](https://twitter.com/teramotodaiki) and [@mjk_0513](https://twitter.com/mjk_0513)
 
+---------------------------
+
+Future Interviews
+
+- #???: [CoderDojo 広島](http://www.coderdojo-hiroshima.com/)
+- #???: [CoderDojo 札幌](http://coderdojo-sapporo.jp/) / [札幌@東部](https://coderdojo-sapporo-east.connpass.com/)
+- #???: [CoderDojo 岡山 甲南](http://coderdojo-konan.media-interesting.info/)
+
 {% include live.html %}
 {% include links.html %}
 <br />
