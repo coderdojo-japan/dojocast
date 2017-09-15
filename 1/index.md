@@ -2,6 +2,7 @@
 layout: episode
 title:  How CoderDojo Started in Japan
 desc:   The 1st DojoCast with <a href="https://twitter.com/jishiha">@jishiha</a>.
+date:   2017/03/25
 file:   001
 ---
 

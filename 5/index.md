@@ -2,6 +2,7 @@
 layout: episode
 title:  What's Decadojo and how it started?
 desc:   Podcasting with Decadojo organizers.
+date:   2017/04/22
 file:   005
 ---
 

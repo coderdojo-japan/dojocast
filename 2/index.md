@@ -2,6 +2,7 @@
 layout: episode
 title:  Young Passionate Champion who Learns from Scratch
 desc:   Podcasting with <a href="https://twitter.com/mjk_0513">@mjk_0513</a>.
+date:   2017/04/13
 file:   002
 ---
 
