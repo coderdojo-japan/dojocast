@@ -12,7 +12,7 @@ title:  DojoCast - Highlight people around CoderDojo communities by Podcast
 - [#001: How CoderDojo started in Japan](/1) with [@jishiha](https://twitter.com/jishiha)
 - [#002: Young Passionate Champion who Learns from Scratch](/2) with [@mjk_0513](https://twitter.com/mjk_0513)
 - [#003: Just for Fun - The Story of CoderDojo Okinawa](/3) with [Tomoaki Higa](https://www.facebook.com/tomoakihjiji)
-- #004: 準備中 with [@tkc49](https://twitter.com/tkc49)
+- [#004: The Impact of DojoCon Japan](/4) with [@tkc49](https://twitter.com/tkc49)
 - [#005: What's Decadojo and how it started?](/5) with [Decadojo organizers](https://peraichi.com/landing_pages/view/decadojo)
 - [#006: [PR] 未踏ジュニアとコーダー道場](/6) with <a href="https://twitter.com/ukkaripon">@ukkaripon</a>
 - #007: 準備中 with [@teramotodaiki](https://twitter.com/teramotodaiki) and [@mjk_0513](https://twitter.com/mjk_0513)
