@@ -25,7 +25,7 @@ title:  DojoCast - Highlight people around CoderDojo communities by Podcast
 Future Interviews
 
 - #???: [CoderDojo 札幌](http://coderdojo-sapporo.jp/) / [札幌@東部](https://coderdojo-sapporo-east.connpass.com/)
-- #???: [CoderDojo 岡山 甲南](http://coderdojo-konan.media-interesting.info/)
+- #???: [CoderDojo 岡山 岡南](http://coderdojo-konan.media-interesting.info/)
 
 {% include live.html %}
 {% include links.html %}
