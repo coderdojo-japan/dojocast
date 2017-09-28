@@ -8,6 +8,11 @@ file:   9
 
 CoderDojo 広島の活動をされている[鼠屋さん](https://www.facebook.com/masanori.nezumiya)と[安藤さん](https://www.facebook.com/ando.mitsuaki)をお伺いしてきました。CoderDojo 広島のことや DojoBudokai のこと、子どもと接するときに考えていることなどについてお話してきました。
 
+[![DojoBudokai 2017 Cover](./budokai_cover.jpg)](http://www.coderdojo-hiroshima.com/budokai/2017-fall)
+
+DojoBudokai 2017 - CoderDojo 広島   
+[http://www.coderdojo-hiroshima.com/budokai/2017-fall](http://www.coderdojo-hiroshima.com/budokai/2017-fall)
+
 # Shownote
 
 - [CoderDojo 広島](http://www.coderdojo-hiroshima.com/)
