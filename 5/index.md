@@ -1,18 +1,18 @@
 ---
 layout: episode
-title:  What's Decadojo and how it started?
-desc:   Podcasting with Decadojo organizers.
+title:  What's DecaCojo and how it started?
+desc:   Podcasting with DecaCojo organizers.
 date:   2017/04/22
 file:   005
 ---
 
 # Shownote
 
-<a href="https://peraichi.com/landing_pages/view/decadojo"><img src="/img/decadojo_cover.png" alt='Decadojo' width='100%' /></a>
+<a href="https://peraichi.com/landing_pages/view/decadojo"><img src="/img/decadojo_cover.png" alt='DecaDojo' width='100%' /></a>
 
 <br />
 
-- [Decadojo - 2017年5月7日 (日曜)](https://peraichi.com/landing_pages/view/decadojo)
+- [DecaDojo - 2017年5月7日 (日曜)](https://peraichi.com/landing_pages/view/decadojo)
 - [.Make ところざわ](https://www.facebook.com/MakeTOKOROZAWA/")
 
 ------------
