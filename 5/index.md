@@ -1,7 +1,7 @@
 ---
 layout: episode
-title:  What's DecaCojo and how it started?
-desc:   Podcasting with DecaCojo organizers.
+title:  What's DecaDojo and how it started?
+desc:   Podcasting with DecaDojo organizers.
 date:   2017/04/22
 file:   005
 ---
