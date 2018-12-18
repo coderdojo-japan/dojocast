@@ -1,6 +1,6 @@
 ---
-layout: episode
-title:  Just for Fun - The Story of CoderDojo Okinawa
+layout: redirect
+redirect_to: https://coderdojo.jp/podcasts/3
 desc:   Podcasting with <a href="https://www.facebook.com/tomoakihjiji">Tomoaki Higa</a> in Naha, Okinawa.
 date:   2017/04/15
 file:   003

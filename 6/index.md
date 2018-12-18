@@ -1,6 +1,6 @@
 ---
-layout: episode
-title:  "[PR] 未踏ジュニアとコーダー道場"
+layout: redirect
+redirect_to: https://coderdojo.jp/podcasts/6
 desc:   Podcasting with <a href="https://twitter.com/ukkaripon">@ukkaripon</a>.
 date:   2017/04/24
 file:   006

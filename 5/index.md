@@ -1,6 +1,6 @@
 ---
-layout: episode
-title:  What's DecaDojo and how it started?
+layout: redirect
+redirect_to: https://coderdojo.jp/podcasts/5
 desc:   Podcasting with DecaDojo organizers.
 date:   2017/04/22
 file:   005

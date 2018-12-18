@@ -1,6 +1,6 @@
 ---
-layout: episode
-title:  "[PR] 未来にコミットしたい"
+layout: redirect
+redirect_to: https://coderdojo.jp/podcasts/8
 desc:   Podcasting with <a href="https://case-shinjuku.com/">CASE Shinjuku</a>.
 date:   2017/07/07
 file:   8

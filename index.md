@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: redirect
+redirect_to: https://coderdojo.jp/podcasts
 title:  DojoCast - Highlight people around CoderDojo communities by Podcast
 ---
 

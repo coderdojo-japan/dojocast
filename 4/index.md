@@ -1,6 +1,6 @@
 ---
-layout: episode
-title:  The Impact of DojoCon Japan
+layout: redirect
+redirect_to: https://coderdojo.jp/podcasts/4
 desc:   Podcasting with <a href="https://twitter.com/tkc49">Takashi Hosoya</a> in Osaka.
 date:   2017/04/16
 file:   004

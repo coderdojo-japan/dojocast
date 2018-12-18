@@ -1,6 +1,6 @@
 ---
-layout: episode
-title:  Tsuyoi Hiroshima - DojoBudokai
+layout: redirect
+redirect_to: https://coderdojo.jp/podcasts/9
 desc:   Podcasting with <a href="https://www.facebook.com/masanori.nezumiya">鼠屋さん</a>と<a href="https://www.facebook.com/ando.mitsuaki">安藤さん</a>
 date:   2017/09/16
 file:   9

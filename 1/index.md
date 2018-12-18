@@ -1,6 +1,6 @@
 ---
-layout: episode
-title:  How CoderDojo Started in Japan
+layout: redirect
+redirect_to: https://coderdojo.jp/podcasts/1
 desc:   The 1st DojoCast with <a href="https://twitter.com/jishiha">@jishiha</a>.
 date:   2017/03/25
 file:   001
